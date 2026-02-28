@@ -19,7 +19,7 @@ git clone https://github.com/ErickRad/JavaBattleCity
 ### 2. Change into the project directory (the repo folder is named `JavaBattleCity`):
 
 ```bash
-cd Battle-City
+cd JavaBattleCity
 ```
 
 ### 3. Make sure you have a Java JDK (headful) installed and available on `PATH`:
