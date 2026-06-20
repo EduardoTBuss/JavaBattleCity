@@ -1,8 +1,6 @@
-##Java Battle City  
-Érick Radmann, Eduardo Timm Buss, Diogo Pereira Ribeiro
- 
+
 ## Introduction
-This is a modified version of the video game Battle City. Battle City is a really popular and classic video game that was created in 90s. The player needs to destroy different enemy tanks, while trying to keep them away from his or her own base. All the sprites we get from https://www.spriters-resource.com/nes/batcity/asset/60016/ spritesheets.
+This is a cloned version of the original game Battle City maded by Érick Radmann, Eduardo Timm Buss, Diogo Pereira Ribeiro. Battle City is a really popular and classic video game that was created in 80s. The player needs to destroy different enemy tanks, while trying to keep them away from his or her own base. All the sprites we get from https://www.spriters-resource.com/nes/batcity/asset/60016/ spritesheets.
 
 
 ## Requirements 
