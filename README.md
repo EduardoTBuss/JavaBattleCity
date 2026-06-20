@@ -1,4 +1,4 @@
-#Java Battle City  
+##Java Battle City  
 Érick Radmann, Eduardo Timm Buss, Diogo Pereira Ribeiro
  
 ## Introduction
