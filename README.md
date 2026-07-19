@@ -144,7 +144,8 @@ Each stage file is an ASCII grid where one character is one tile:
 ## Credits
 
 Developed by **Érick Radmann**, **Eduardo Timm Buss** and **Diogo Pereira Ribeiro** as
-the final project for the Object-Oriented Programming course. Sprites are from the
+the final project for the Object-Oriented Programming course — Computer Engineering,
+Federal University of Pelotas (UFPel), taught by Prof. Rafael Burlamaqui Amaral. Sprites are from the
 [Spriters Resource Battle City sheet](https://www.spriters-resource.com/nes/batcity/asset/60016/).
 Battle City is a trademark of Namco; this is a non-commercial, educational reimplementation.
 
